@@ -1,4 +1,6 @@
 #Headline 
 
 x <- rnorm(100)
-x2 <- rnorm(50)
+y <- rnorm(50)
+
+#Important feature 
