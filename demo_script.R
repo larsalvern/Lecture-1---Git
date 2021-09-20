@@ -5,5 +5,5 @@ y <- rnorm(50)
 
 #Important feature 
 
-#Experimenta feature
+#Experimental feature
 z <- c("Apple", "Orange")
